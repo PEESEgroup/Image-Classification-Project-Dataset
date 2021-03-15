@@ -24,6 +24,7 @@ You should develop a model that correctly provide the correct label for each ima
 
 ### Evaluation and Perfromance 
 This project is evaluated on the accuracy of your predictions (the percentage of images you correctly label). The perfromance attained on the test set (hidden here) should be at least 90% to get the full credit. 
+
 **Don't forget to cross-validate the performance of your model!**
 
 ## Acknowledgments
