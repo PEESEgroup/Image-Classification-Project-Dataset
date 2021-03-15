@@ -12,10 +12,8 @@ In this project, your goal is to correctly classify images from the dataset. We 
 **Train** (use for training and validation)
 - A: 962
 - B: 628
- 
-**Test** (use for testing)
-- A: 104
-- B: 105
+
+Please use the same dimensions (165 x 165) as the provided images as an input to your model.
 
 ### Skills 
 -	Computer vision including convolutional neural networks
@@ -26,6 +24,7 @@ You should develop a model that correctly provide the correct label for each ima
 
 ### Evaluation and Perfromance 
 This project is evaluated on the accuracy of your predictions (the percentage of images you correctly label). The perfromance attained on the test set should be at least 99.0%. 
+**Don't forget to cross validate the performance of your model**
 
 ## Acknowledgments
 - Michael Tsuei
